@@ -4,7 +4,7 @@ files:
   - source: /index.html
     destination: /var/www/html/
   - source: /img/AWS-logo.jpg
-    destination: /var/www/html/img
+    destination: /var/www/html/
 hooks:
   BeforeInstall:
     - location: scripts/install_dependencies
