@@ -3,7 +3,7 @@ os: linux
 files:
   - source: /index/html 
     destination: /var/www/html/
-  - sourrce: /img
+  - source: /img
     destination: /var/www/html/img
 hooks:
   BeforeInstall:
