@@ -1,0 +1,18 @@
+{
+    "ApplicationName": "My First Elastic Beanstalk Application", 
+    "TemplateName": "MyAppTemplate", 
+    "SolutionStackName": "", 
+    "SourceConfiguration": {
+        "ApplicationName": "", 
+        "TemplateName": ""
+    }, 
+    "EnvironmentId": "", 
+    "Description": "", 
+    "OptionSettings": [
+        {
+            "Namespace": "", 
+            "OptionName": "", 
+            "Value": ""
+        }
+    ]
+}
