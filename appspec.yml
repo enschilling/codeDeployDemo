@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /*.html 
+  - source: /html 
     destination: /var/www/html/
   - source: /img
     destination: /var/www/html/img
